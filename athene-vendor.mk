@@ -1035,5 +1035,4 @@ PRODUCT_PACKAGES += \
     DMService \
     SprintDM \
     DMConfigUpdateLight \
-    atfwd \
-    MotCamera
+    atfwd
